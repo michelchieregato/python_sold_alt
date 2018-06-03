@@ -10,6 +10,14 @@ __pycache__/
 *.csv
 .csv
 
+# Excel
+*.xlsx
+.xlsx
+*xls
+.xls
+*xlsm
+.xlsm
+
 # C extensions
 *.so
 
